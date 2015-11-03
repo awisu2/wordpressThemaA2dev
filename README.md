@@ -8,7 +8,11 @@ http://wordpress.a2dev.org で使っているwordpressテーマテンプレー�
 
 This software is released under the MIT License, see LICENSE.md.
 
-## googleAnalyticsの有効化
+## 使い方
+
+zip形式でダウンロードしていただき、wordpressのテーマでファイルごと読みこめば完了です
+
+### googleAnalyticsの有効化
 
 function.phpを開くと`$googleAnalyticsTrackingCode="";`
 という記述があります。
