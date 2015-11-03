@@ -2,7 +2,7 @@
 
 ## 概要
 
-http://wordpress.a2dev.orgで使っているwordpressテーマテンプレートです
+http://wordpress.a2dev.org で使っているwordpressテーマテンプレートです
 
 ## ライセンス
 
